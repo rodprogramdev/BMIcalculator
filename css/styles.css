@@ -1,4 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 2rem 0;
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+}
+
 .calculator{
     height: 100vh;
     background-color:lightgoldenrodyellow;
+   text-align: center;
+   margin: 0 auto;
+   padding: 5% 5%;
 }
+
+#height, #weight{
+    margin: 2%;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
