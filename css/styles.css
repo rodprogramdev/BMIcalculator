@@ -9,6 +9,10 @@ body{
     text-align: center;
 }
 
+p{
+   font-size: 2rem;
+}
+
 .calculator{
     height: 100vh;
     background-color:lightgoldenrodyellow;
@@ -23,7 +27,7 @@ body{
     font-size: 2rem;
 }
 
-#submit{
+#btn{
     padding: 1%;
 
 }
