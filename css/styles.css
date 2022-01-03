@@ -3,10 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
+    background-color: lightgreen;
     padding: 2rem 0;
     font-family: 'Fredoka One', cursive;
     text-align: center;
+}
+
+header{
+    padding: 0 2% 2% ;
 }
 
 p{
