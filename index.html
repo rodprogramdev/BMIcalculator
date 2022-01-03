@@ -44,7 +44,7 @@ function bmiCalc(weight, height){
    
     var bmi = weight / (Math.pow(height, 2));
 
-    var bmiResult = document.getElementById("bmi").innerHTML = bmi;
+    return bmiResult = document.getElementById("bmi").innerHTML = Math.round(bmi);
    
    
 }
